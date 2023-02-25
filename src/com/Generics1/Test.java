@@ -18,11 +18,11 @@ public class Test {
 
         //после 5 джавы появились дженерики
 
-        List<String> animals2 = new ArrayList<String>();
-        animals2.add("cat2");
-        animals2.add("dog2");
-        animals2.add("frog2");
-        String animal2 = animals2.get(2);
+        List<String> animals22 = new ArrayList<String>();
+        animals22.add("cat2");
+        animals22.add("dog2");
+        animals22.add("frog2");
+        String animal2 = animals22.get(2);
         System.out.println(animal2);
 
         //после 7 джавы
